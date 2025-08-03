@@ -2,7 +2,7 @@
 - 👀 I’m interested in **AI/ML, Embedded Systems, Automotive Technology, and Product Development.**  
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA), System Design, and Advanced AI/ML techniques.**  
 - 💞️ I’m looking to collaborate on **projects related to Embedded Automotive Systems, Connected Vehicles, AI/ML applications, and cutting-edge product development.**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/santoshk26) | Email: santosh.iimind@gmail.com**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/santoshiimind) | Email: santosh.iimind@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I’ve worked on projects ranging from car detection in traffic to face recognition, blending my passion for AI with real-world applications.**  
 
