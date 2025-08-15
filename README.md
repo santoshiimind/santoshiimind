@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santoshiimind (Santosh Kumar)  
 - 👀 I’m interested in **AI/ML, Embedded Systems, Automotive Technology, and Product Development.**  
-- 🌱 I enjoy solving **Data Structures & Algorithms (DSA), System Design, and Advanced AI/ML techniques.**  
+- 🌱 I enjoy solving **Data Structures & Algorithms (DSA), System Design, and Advanced AI/ML problems.**  
 - 💞️ I’m looking to collaborate on **projects related to Embedded Automotive Systems, Connected Vehicles, AI/ML applications, and cutting-edge product development.**  
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/santosh-iimind) | Email: santosh.iimind@gmail.com**  
 - 😄 Pronouns: **He/Him**  
